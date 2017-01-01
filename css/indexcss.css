@@ -138,9 +138,11 @@
 i.intro{
   color:#AEACB7 ;
   font-size: 10px;
+  margin-right:12px;
 }
 li.intro{
   list-style: none;
+  text-align: justify;
 }
 .intro-text{
   font-size:12px;
